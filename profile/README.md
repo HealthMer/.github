@@ -20,7 +20,7 @@
 | 백지민 | 윤병희 |
 | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/175587334?v=4" width="155" height="150">| <img src=https://i.imgur.com/jrW5RQj.png width="155" height="150" > |
-|  [@지민_GitHub](https://github.com/leegyoungmin) | [@병희_GitHub](https://github.com/dylan-yoon) |
+|  [@지민_GitHub](https://github.com/eosa1414) | [@병희_GitHub](https://github.com/dylan-yoon) |
 
 <br>
 
